@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <!-- es es comentario-->
 <head>
